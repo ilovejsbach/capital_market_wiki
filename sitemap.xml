@@ -731,6 +731,15 @@
     <loc>https://ilovejsbach.github.io/capital_market_wiki/concepts/settlement</loc>
     <lastmod>2026-10-19T15:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://ilovejsbach.github.io/capital_market_wiki/concepts/shanghai-hong-kong-connect</loc>
+    <lastmod>2026-10-20T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://ilovejsbach.github.io/capital_market_wiki/concepts/shanghai-london-connect</loc>
+    <lastmod>2026-10-20T15:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://ilovejsbach.github.io/capital_market_wiki/concepts/shenzhen-hong-kong-connect</loc>
+    <lastmod>2026-10-20T15:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/concepts/short-selling</loc>
     <lastmod>2026-10-19T15:00:00.000Z</lastmod>
   </url><url>
@@ -944,6 +953,9 @@
     <loc>https://ilovejsbach.github.io/capital_market_wiki/institutions/g20-summit</loc>
     <lastmod>2026-10-19T15:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://ilovejsbach.github.io/capital_market_wiki/institutions/hkex</loc>
+    <lastmod>2026-10-20T15:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/institutions/iais</loc>
     <lastmod>2026-10-19T15:00:00.000Z</lastmod>
   </url><url>
@@ -1131,7 +1143,7 @@
     <lastmod>2026-10-19T15:00:00.000Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/supplements/part2/readme</loc>
-    <lastmod>2026-10-21T00:00:04.153Z</lastmod>
+    <lastmod>2026-10-21T04:07:17.597Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/supplements/part2/themes</loc>
     <lastmod>2026-10-19T15:00:00.000Z</lastmod>
@@ -1143,68 +1155,71 @@
     <lastmod>2026-10-19T15:00:00.000Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/books/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/chapters/kcm/1%EB%B6%80-%EC%9E%90%EB%B3%B8%EC%8B%9C%EC%9E%A5-%EC%9D%B4%ED%95%B4%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/chapters/kcm/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/chapters/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/chapters/kcm/2%EB%B6%80-%EC%84%A0%EB%8F%84%EC%9E%90%EB%B3%B8%EC%8B%9C%EC%9E%A5-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%9D%B8%ED%94%84%EB%9D%BC/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/chapters/kcm/3%EB%B6%80-%EC%84%A0%EB%8F%84%EC%9E%90%EB%B3%B8%EC%8B%9C%EC%9E%A5-%EC%A3%BC%EC%9A%94-%EB%B2%95%EC%A0%9C/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/chapters/kcm/4%EB%B6%80-%EC%84%A0%EB%8F%84%EC%9E%90%EB%B3%B8%EC%8B%9C%EC%9E%A5-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%8B%A0%EA%B2%BD%ED%96%A5/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/chapters/kcm/5%EB%B6%80-%ED%95%9C%EA%B5%AD%EC%9E%90%EB%B3%B8%EC%8B%9C%EC%9E%A5%E2%80%94%EA%B5%AC%EC%A1%B0,-%EC%9D%B8%ED%94%84%EB%9D%BC,-%EB%B2%95%EC%A0%9C-%EB%B0%8F-%EA%B4%80%EB%A0%A8-%EC%9F%81%EC%A0%90/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/concepts/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/institutions/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/metrics/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/regulations/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/supplements/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/supplements/part2/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/tags/%EC%B1%85</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/tags/%EC%9E%A5</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/tags/%EA%B0%9C%EB%85%90</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
+  </url><url>
+    <loc>https://ilovejsbach.github.io/capital_market_wiki/tags/%ED%99%95%EC%9E%A5</loc>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/tags/%EA%B8%B0%EA%B4%80</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/tags/%EC%A7%80%ED%91%9C</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/tags/%EB%B2%95%EA%B7%9C</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/tags/%EB%B3%B4%EC%99%84</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url><url>
     <loc>https://ilovejsbach.github.io/capital_market_wiki/tags/</loc>
-    <lastmod>2026-10-21T00:53:28.073Z</lastmod>
+    <lastmod>2026-10-21T04:07:45.065Z</lastmod>
   </url></urlset>
