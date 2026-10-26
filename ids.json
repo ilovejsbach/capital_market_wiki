@@ -1,0 +1,2277 @@
+{
+ "site": "kcm",
+ "generated_from": "f9e40c2",
+ "docs": {
+  "kcm:book:kcm": {
+   "path": "books/kcm",
+   "title": "한국 자본시장의 이해",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch01": {
+   "path": "chapters/kcm/1부-자본시장-이해에-필요한-기본-개념/kcm-ch01",
+   "title": "1장 자본시장",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch02": {
+   "path": "chapters/kcm/1부-자본시장-이해에-필요한-기본-개념/kcm-ch02",
+   "title": "2장 주식거래과정과 기능별 인프라 제공기관",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch03": {
+   "path": "chapters/kcm/1부-자본시장-이해에-필요한-기본-개념/kcm-ch03",
+   "title": "3장 주식시장구조",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch04": {
+   "path": "chapters/kcm/1부-자본시장-이해에-필요한-기본-개념/kcm-ch04",
+   "title": "4장 주식시장의 사회적 기능과 역할",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-pt1": {
+   "path": "chapters/kcm/1부-자본시장-이해에-필요한-기본-개념/kcm-pt1",
+   "title": "1부 개요",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch05": {
+   "path": "chapters/kcm/2부-선도자본시장-구조와-인프라/kcm-ch05",
+   "title": "5장 영국자본시장, 런던증권거래소 그룹을 중심으로",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch06": {
+   "path": "chapters/kcm/2부-선도자본시장-구조와-인프라/kcm-ch06",
+   "title": "6장 미국자본시장, 시장거시구조 글로벌 패러다임 리더",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch07": {
+   "path": "chapters/kcm/2부-선도자본시장-구조와-인프라/kcm-ch07",
+   "title": "7장 EU 자본시장",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-pt2": {
+   "path": "chapters/kcm/2부-선도자본시장-구조와-인프라/kcm-pt2",
+   "title": "2부 개요",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch08": {
+   "path": "chapters/kcm/3부-선도자본시장-주요-법제/kcm-ch08",
+   "title": "8장 자본시장 법제 — 원칙, 특징 및 글로벌 규제·감독 구조",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch09": {
+   "path": "chapters/kcm/3부-선도자본시장-주요-법제/kcm-ch09",
+   "title": "9장 미국자본시장 주요 법제—글로벌 선도자본시장 현재 모습 규정",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch10": {
+   "path": "chapters/kcm/3부-선도자본시장-주요-법제/kcm-ch10",
+   "title": "10장 EU 자본시장 주요 법제",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-pt3": {
+   "path": "chapters/kcm/3부-선도자본시장-주요-법제/kcm-pt3",
+   "title": "3부 개요",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch11": {
+   "path": "chapters/kcm/4부-선도자본시장-특징과-신경향/kcm-ch11",
+   "title": "11장 시장 패러다임 변화",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch12": {
+   "path": "chapters/kcm/4부-선도자본시장-특징과-신경향/kcm-ch12",
+   "title": "12장 시장거시·미시구조 질적 변화와 세련화",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-pt4": {
+   "path": "chapters/kcm/4부-선도자본시장-특징과-신경향/kcm-pt4",
+   "title": "4부 개요",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch13": {
+   "path": "chapters/kcm/5부-한국자본시장—구조,-인프라,-법제-및-관련-쟁점/kcm-ch13",
+   "title": "13장 논의에 들어가며—한국, 시장중심 금융시스템으로",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch14": {
+   "path": "chapters/kcm/5부-한국자본시장—구조,-인프라,-법제-및-관련-쟁점/kcm-ch14",
+   "title": "14장 시장거시구조",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch15": {
+   "path": "chapters/kcm/5부-한국자본시장—구조,-인프라,-법제-및-관련-쟁점/kcm-ch15",
+   "title": "15장 시장미시구조",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-ch16": {
+   "path": "chapters/kcm/5부-한국자본시장—구조,-인프라,-법제-및-관련-쟁점/kcm-ch16",
+   "title": "16장 법제 — \"자본시장과 금융투자업에 관한 법률\"",
+   "status": "published"
+  },
+  "kcm:chapter:kcm-pt5": {
+   "path": "chapters/kcm/5부-한국자본시장—구조,-인프라,-법제-및-관련-쟁점/kcm-pt5",
+   "title": "5부 개요",
+   "status": "published"
+  },
+  "kcm:concept:a-blox": {
+   "path": "concepts/a-blox",
+   "title": "경쟁대량매매(A-Blox)",
+   "status": "published"
+  },
+  "kcm:concept:abcp": {
+   "path": "concepts/abcp",
+   "title": "자산유동화기업어음",
+   "status": "published"
+  },
+  "kcm:concept:adverse-selection": {
+   "path": "concepts/adverse-selection",
+   "title": "역선택",
+   "status": "published"
+  },
+  "kcm:concept:after-hours-trading": {
+   "path": "concepts/after-hours-trading",
+   "title": "시간외거래",
+   "status": "published"
+  },
+  "kcm:concept:aim-market": {
+   "path": "concepts/aim-market",
+   "title": "AIM",
+   "status": "published"
+  },
+  "kcm:concept:algorithmic-trading": {
+   "path": "concepts/algorithmic-trading",
+   "title": "알고리즘거래(AT)",
+   "status": "published"
+  },
+  "kcm:concept:alternative-trading-system": {
+   "path": "concepts/alternative-trading-system",
+   "title": "대체거래시스템",
+   "status": "published"
+  },
+  "kcm:concept:ancillary-business": {
+   "path": "concepts/ancillary-business",
+   "title": "부수업무",
+   "status": "published"
+  },
+  "kcm:concept:approved-publication-arrangement": {
+   "path": "concepts/approved-publication-arrangement",
+   "title": "인정공시기관",
+   "status": "published"
+  },
+  "kcm:concept:approved-reporting-mechanism": {
+   "path": "concepts/approved-reporting-mechanism",
+   "title": "인정보고기관",
+   "status": "published"
+  },
+  "kcm:concept:asset-backed-securities": {
+   "path": "concepts/asset-backed-securities",
+   "title": "자산유동화증권",
+   "status": "published"
+  },
+  "kcm:concept:ats-volume-limit": {
+   "path": "concepts/ats-volume-limit",
+   "title": "다자간매매체결회사 거래량 한도",
+   "status": "published"
+  },
+  "kcm:concept:authorized-participant": {
+   "path": "concepts/authorized-participant",
+   "title": "지정참가회사",
+   "status": "published"
+  },
+  "kcm:concept:basel-iii": {
+   "path": "concepts/basel-iii",
+   "title": "바젤 III",
+   "status": "published"
+  },
+  "kcm:concept:basis": {
+   "path": "concepts/basis",
+   "title": "베이시스",
+   "status": "published"
+  },
+  "kcm:concept:bbo": {
+   "path": "concepts/bbo",
+   "title": "최우선호가(BBO)",
+   "status": "published"
+  },
+  "kcm:concept:best-execution": {
+   "path": "concepts/best-execution",
+   "title": "최선집행의무",
+   "status": "published"
+  },
+  "kcm:concept:bis-capital-ratio": {
+   "path": "concepts/bis-capital-ratio",
+   "title": "BIS 자기자본비율",
+   "status": "published"
+  },
+  "kcm:concept:block-trade": {
+   "path": "concepts/block-trade",
+   "title": "대량매매",
+   "status": "published"
+  },
+  "kcm:concept:bond-connect": {
+   "path": "concepts/bond-connect",
+   "title": "채권퉁(Bond Connect)",
+   "status": "published"
+  },
+  "kcm:concept:bond": {
+   "path": "concepts/bond",
+   "title": "채권",
+   "status": "published"
+  },
+  "kcm:concept:brexit": {
+   "path": "concepts/brexit",
+   "title": "브렉시트",
+   "status": "published"
+  },
+  "kcm:concept:broker-crossing-network": {
+   "path": "concepts/broker-crossing-network",
+   "title": "브로커 매매체결 네트워크",
+   "status": "published"
+  },
+  "kcm:concept:broker-dealer": {
+   "path": "concepts/broker-dealer",
+   "title": "증권회사",
+   "status": "published"
+  },
+  "kcm:concept:buy-side-sell-side": {
+   "path": "concepts/buy-side-sell-side",
+   "title": "바이사이드와 셀사이드",
+   "status": "published"
+  },
+  "kcm:concept:call-auction": {
+   "path": "concepts/call-auction",
+   "title": "단일가매매",
+   "status": "published"
+  },
+  "kcm:concept:call-market": {
+   "path": "concepts/call-market",
+   "title": "콜시장",
+   "status": "published"
+  },
+  "kcm:concept:capital-allocation-function": {
+   "path": "concepts/capital-allocation-function",
+   "title": "한정된 자본의 효율적 배분",
+   "status": "published"
+  },
+  "kcm:concept:capital-market": {
+   "path": "concepts/capital-market",
+   "title": "자본시장",
+   "status": "published"
+  },
+  "kcm:concept:cds-index": {
+   "path": "concepts/cds-index",
+   "title": "CDS 지수",
+   "status": "published"
+  },
+  "kcm:concept:central-counterparty": {
+   "path": "concepts/central-counterparty",
+   "title": "중앙청산기구",
+   "status": "published"
+  },
+  "kcm:concept:central-securities-depository": {
+   "path": "concepts/central-securities-depository",
+   "title": "증권예탁기관",
+   "status": "published"
+  },
+  "kcm:concept:certificate-of-deposit": {
+   "path": "concepts/certificate-of-deposit",
+   "title": "양도성예금증서",
+   "status": "published"
+  },
+  "kcm:concept:china-a-share-boards": {
+   "path": "concepts/china-a-share-boards",
+   "title": "중국 A주 보드(커촹반·촹예반·베이징증권거래소·신삼판)",
+   "status": "published"
+  },
+  "kcm:concept:circuit-breaker": {
+   "path": "concepts/circuit-breaker",
+   "title": "서킷브레이커",
+   "status": "published"
+  },
+  "kcm:concept:clearing": {
+   "path": "concepts/clearing",
+   "title": "청산",
+   "status": "published"
+  },
+  "kcm:concept:co-location": {
+   "path": "concepts/co-location",
+   "title": "Co-lo 서비스",
+   "status": "published"
+  },
+  "kcm:concept:collateralized-debt-obligation": {
+   "path": "concepts/collateralized-debt-obligation",
+   "title": "부채담보부증권",
+   "status": "published"
+  },
+  "kcm:concept:commercial-paper": {
+   "path": "concepts/commercial-paper",
+   "title": "기업어음",
+   "status": "published"
+  },
+  "kcm:concept:competing-consolidator": {
+   "path": "concepts/competing-consolidator",
+   "title": "경쟁적 데이터 통합·제공자",
+   "status": "published"
+  },
+  "kcm:concept:competitive-trading": {
+   "path": "concepts/competitive-trading",
+   "title": "경쟁매매",
+   "status": "published"
+  },
+  "kcm:concept:concentration-rule": {
+   "path": "concepts/concentration-rule",
+   "title": "거래소집중의무",
+   "status": "published"
+  },
+  "kcm:concept:conditional-order": {
+   "path": "concepts/conditional-order",
+   "title": "조건부지정가주문",
+   "status": "published"
+  },
+  "kcm:concept:conflict-of-interest-prevention": {
+   "path": "concepts/conflict-of-interest-prevention",
+   "title": "이해상충 방지체제",
+   "status": "published"
+  },
+  "kcm:concept:consolidated-audit-trail": {
+   "path": "concepts/consolidated-audit-trail",
+   "title": "통합검사추적시스템",
+   "status": "published"
+  },
+  "kcm:concept:consolidated-market-data-plan": {
+   "path": "concepts/consolidated-market-data-plan",
+   "title": "CQS",
+   "status": "published"
+  },
+  "kcm:concept:consolidated-tape-provider": {
+   "path": "concepts/consolidated-tape-provider",
+   "title": "체결정보통합제공업자",
+   "status": "published"
+  },
+  "kcm:concept:contango": {
+   "path": "concepts/contango",
+   "title": "콘탱고와 백워데이션",
+   "status": "published"
+  },
+  "kcm:concept:continuous-trading": {
+   "path": "concepts/continuous-trading",
+   "title": "접속매매",
+   "status": "published"
+  },
+  "kcm:concept:core-regulatory-principles": {
+   "path": "concepts/core-regulatory-principles",
+   "title": "자본시장 법제 핵심 원칙",
+   "status": "published"
+  },
+  "kcm:concept:covered-call": {
+   "path": "concepts/covered-call",
+   "title": "커버드 콜",
+   "status": "published"
+  },
+  "kcm:concept:credit-default-swap": {
+   "path": "concepts/credit-default-swap",
+   "title": "신용부도스왑",
+   "status": "published"
+  },
+  "kcm:concept:credit-enhancement": {
+   "path": "concepts/credit-enhancement",
+   "title": "신용보강",
+   "status": "published"
+  },
+  "kcm:concept:credit-rating-agency": {
+   "path": "concepts/credit-rating-agency",
+   "title": "신용평가기관",
+   "status": "published"
+  },
+  "kcm:concept:crossing": {
+   "path": "concepts/crossing",
+   "title": "크로씽",
+   "status": "published"
+  },
+  "kcm:concept:crowdfunding": {
+   "path": "concepts/crowdfunding",
+   "title": "크라우드펀딩",
+   "status": "published"
+  },
+  "kcm:concept:currency-swap": {
+   "path": "concepts/currency-swap",
+   "title": "통화스왑",
+   "status": "published"
+  },
+  "kcm:concept:dark-pool": {
+   "path": "concepts/dark-pool",
+   "title": "다크풀",
+   "status": "published"
+  },
+  "kcm:concept:delivery-versus-payment": {
+   "path": "concepts/delivery-versus-payment",
+   "title": "DvP",
+   "status": "published"
+  },
+  "kcm:concept:dematerialization": {
+   "path": "concepts/dematerialization",
+   "title": "무권화",
+   "status": "published"
+  },
+  "kcm:concept:depositary-receipt": {
+   "path": "concepts/depositary-receipt",
+   "title": "예탁증서",
+   "status": "published"
+  },
+  "kcm:concept:derivatives-clearing-organization": {
+   "path": "concepts/derivatives-clearing-organization",
+   "title": "청산·결제기관(DCO)",
+   "status": "published"
+  },
+  "kcm:concept:derivatives-linked-securities": {
+   "path": "concepts/derivatives-linked-securities",
+   "title": "파생결합증권",
+   "status": "published"
+  },
+  "kcm:concept:derivatives": {
+   "path": "concepts/derivatives",
+   "title": "파생상품",
+   "status": "published"
+  },
+  "kcm:concept:designated-contract-market": {
+   "path": "concepts/designated-contract-market",
+   "title": "파생상품거래소(DCM)",
+   "status": "published"
+  },
+  "kcm:concept:designated-market-maker": {
+   "path": "concepts/designated-market-maker",
+   "title": "지정시장조성인",
+   "status": "published"
+  },
+  "kcm:concept:digital-asset-derivatives": {
+   "path": "concepts/digital-asset-derivatives",
+   "title": "디지털 자산 파생상품",
+   "status": "published"
+  },
+  "kcm:concept:direct-and-indirect-finance": {
+   "path": "concepts/direct-and-indirect-finance",
+   "title": "직접금융시장과 간접금융시장",
+   "status": "published"
+  },
+  "kcm:concept:direct-listing": {
+   "path": "concepts/direct-listing",
+   "title": "직상장",
+   "status": "published"
+  },
+  "kcm:concept:distributed-ledger-technology": {
+   "path": "concepts/distributed-ledger-technology",
+   "title": "분산원장기술",
+   "status": "published"
+  },
+  "kcm:concept:dlf-incident-2019": {
+   "path": "concepts/dlf-incident-2019",
+   "title": "2019년 해외금리 연계 DLF 사태",
+   "status": "published"
+  },
+  "kcm:concept:dma": {
+   "path": "concepts/dma",
+   "title": "DMA",
+   "status": "published"
+  },
+  "kcm:concept:double-volume-cap": {
+   "path": "concepts/double-volume-cap",
+   "title": "거래량 상한",
+   "status": "published"
+  },
+  "kcm:concept:duty-of-explanation": {
+   "path": "concepts/duty-of-explanation",
+   "title": "설명의무",
+   "status": "published"
+  },
+  "kcm:concept:economies-of-scope": {
+   "path": "concepts/economies-of-scope",
+   "title": "범위의 경제",
+   "status": "published"
+  },
+  "kcm:concept:efficient-market-hypothesis": {
+   "path": "concepts/efficient-market-hypothesis",
+   "title": "효율적 시장가설",
+   "status": "published"
+  },
+  "kcm:concept:electronic-bond-trading-platform": {
+   "path": "concepts/electronic-bond-trading-platform",
+   "title": "채권 전자 거래플랫폼",
+   "status": "published"
+  },
+  "kcm:concept:emerging-growth-company": {
+   "path": "concepts/emerging-growth-company",
+   "title": "신성장기업",
+   "status": "published"
+  },
+  "kcm:concept:enumeration-and-comprehensive-approaches": {
+   "path": "concepts/enumeration-and-comprehensive-approaches",
+   "title": "포괄주의",
+   "status": "published"
+  },
+  "kcm:concept:equity-linked-fund": {
+   "path": "concepts/equity-linked-fund",
+   "title": "주가연계펀드",
+   "status": "published"
+  },
+  "kcm:concept:equity-linked-securities": {
+   "path": "concepts/equity-linked-securities",
+   "title": "주가연계증권",
+   "status": "published"
+  },
+  "kcm:concept:equity-linked-trust": {
+   "path": "concepts/equity-linked-trust",
+   "title": "주가연계신탁",
+   "status": "published"
+  },
+  "kcm:concept:equivalence-regime": {
+   "path": "concepts/equivalence-regime",
+   "title": "동등성 원칙",
+   "status": "published"
+  },
+  "kcm:concept:eu-emir-central-clearing": {
+   "path": "concepts/eu-emir-central-clearing",
+   "title": "EU EMIR 중앙청산 체제",
+   "status": "published"
+  },
+  "kcm:concept:eu-t1-settlement-cycle": {
+   "path": "concepts/eu-t1-settlement-cycle",
+   "title": "EU 결제주기 T+1 전환",
+   "status": "published"
+  },
+  "kcm:concept:exchange-demutualization": {
+   "path": "concepts/exchange-demutualization",
+   "title": "거래소의 민간기업화",
+   "status": "published"
+  },
+  "kcm:concept:exchange-license": {
+   "path": "concepts/exchange-license",
+   "title": "거래소 허가제",
+   "status": "published"
+  },
+  "kcm:concept:exchange-ownership-form": {
+   "path": "concepts/exchange-ownership-form",
+   "title": "거래소 조직 형태",
+   "status": "published"
+  },
+  "kcm:concept:exchange-traded-fund": {
+   "path": "concepts/exchange-traded-fund",
+   "title": "상장지수집합투자기구",
+   "status": "published"
+  },
+  "kcm:concept:exchange-traded-note": {
+   "path": "concepts/exchange-traded-note",
+   "title": "상장지수채권",
+   "status": "published"
+  },
+  "kcm:concept:execution-conditions": {
+   "path": "concepts/execution-conditions",
+   "title": "체결조건(IOC·FOK)",
+   "status": "published"
+  },
+  "kcm:concept:financial-big-bang": {
+   "path": "concepts/financial-big-bang",
+   "title": "금융 빅뱅",
+   "status": "published"
+  },
+  "kcm:concept:financial-consumer-protection-act": {
+   "path": "concepts/financial-consumer-protection-act",
+   "title": "금융소비자 보호에 관한 법률(금소법)의 주요 제도",
+   "status": "published"
+  },
+  "kcm:concept:financial-counterparty": {
+   "path": "concepts/financial-counterparty",
+   "title": "금융기관·비금융기관 구분(FC·NFC)",
+   "status": "published"
+  },
+  "kcm:concept:financial-investment-business": {
+   "path": "concepts/financial-investment-business",
+   "title": "금융투자업",
+   "status": "published"
+  },
+  "kcm:concept:financial-investment-product": {
+   "path": "concepts/financial-investment-product",
+   "title": "금융투자상품",
+   "status": "published"
+  },
+  "kcm:concept:financial-market-classification": {
+   "path": "concepts/financial-market-classification",
+   "title": "금융시장 구분",
+   "status": "published"
+  },
+  "kcm:concept:financial-market-infrastructure": {
+   "path": "concepts/financial-market-infrastructure",
+   "title": "자본시장 인프라(FMI)",
+   "status": "published"
+  },
+  "kcm:concept:financial-transaction-tax": {
+   "path": "concepts/financial-transaction-tax",
+   "title": "금융거래세",
+   "status": "published"
+  },
+  "kcm:concept:fisher-separation-theorem": {
+   "path": "concepts/fisher-separation-theorem",
+   "title": "피셔 분리정리",
+   "status": "published"
+  },
+  "kcm:concept:flash-crash": {
+   "path": "concepts/flash-crash",
+   "title": "플래시 크래시",
+   "status": "published"
+  },
+  "kcm:concept:frequent-batch-auction": {
+   "path": "concepts/frequent-batch-auction",
+   "title": "FBA",
+   "status": "published"
+  },
+  "kcm:concept:functional-regulation": {
+   "path": "concepts/functional-regulation",
+   "title": "기능별 규제체계",
+   "status": "published"
+  },
+  "kcm:concept:fund-of-funds": {
+   "path": "concepts/fund-of-funds",
+   "title": "재간접펀드",
+   "status": "published"
+  },
+  "kcm:concept:futures": {
+   "path": "concepts/futures",
+   "title": "선물",
+   "status": "published"
+  },
+  "kcm:concept:fx-swap": {
+   "path": "concepts/fx-swap",
+   "title": "외환스왑",
+   "status": "published"
+  },
+  "kcm:concept:global-financial-crisis-2008": {
+   "path": "concepts/global-financial-crisis-2008",
+   "title": "2008년 글로벌 금융위기",
+   "status": "published"
+  },
+  "kcm:concept:global-fmi-pfmi": {
+   "path": "concepts/global-fmi-pfmi",
+   "title": "금융시장인프라 원칙(PFMI)",
+   "status": "published"
+  },
+  "kcm:concept:growth-ladder-fund": {
+   "path": "concepts/growth-ladder-fund",
+   "title": "성장사다리펀드",
+   "status": "published"
+  },
+  "kcm:concept:growth-market": {
+   "path": "concepts/growth-market",
+   "title": "성장형시장",
+   "status": "published"
+  },
+  "kcm:concept:hedge-fund": {
+   "path": "concepts/hedge-fund",
+   "title": "헤지펀드",
+   "status": "published"
+  },
+  "kcm:concept:hft-trading-strategies": {
+   "path": "concepts/hft-trading-strategies",
+   "title": "HFT 활용 거래전략",
+   "status": "published"
+  },
+  "kcm:concept:high-frequency-trading": {
+   "path": "concepts/high-frequency-trading",
+   "title": "고빈도거래",
+   "status": "published"
+  },
+  "kcm:concept:hong-kong-h-index-els-incident": {
+   "path": "concepts/hong-kong-h-index-els-incident",
+   "title": "홍콩 H지수 ELS 사태",
+   "status": "published"
+  },
+  "kcm:concept:horizontal-integration": {
+   "path": "concepts/horizontal-integration",
+   "title": "수평 통합",
+   "status": "published"
+  },
+  "kcm:concept:index-and-data-provider": {
+   "path": "concepts/index-and-data-provider",
+   "title": "지수·데이터 제공기관",
+   "status": "published"
+  },
+  "kcm:concept:index-providers-msci-ftse-stoxx": {
+   "path": "concepts/index-providers-msci-ftse-stoxx",
+   "title": "MSCI·FTSE Russell·STOXX 지수 제공자와 한국 분류",
+   "status": "published"
+  },
+  "kcm:concept:indicative-value": {
+   "path": "concepts/indicative-value",
+   "title": "지표가치",
+   "status": "published"
+  },
+  "kcm:concept:integrated-securities-business": {
+   "path": "concepts/integrated-securities-business",
+   "title": "종합금융투자사업자",
+   "status": "published"
+  },
+  "kcm:concept:interest-rate-swap": {
+   "path": "concepts/interest-rate-swap",
+   "title": "이자율스왑",
+   "status": "published"
+  },
+  "kcm:concept:intermarket-sweep-order": {
+   "path": "concepts/intermarket-sweep-order",
+   "title": "시장 간 싹쓸이 주문",
+   "status": "published"
+  },
+  "kcm:concept:internalization": {
+   "path": "concepts/internalization",
+   "title": "내부주문집행업무",
+   "status": "published"
+  },
+  "kcm:concept:intertemporal-resource-allocation": {
+   "path": "concepts/intertemporal-resource-allocation",
+   "title": "현재와 미래 사이 효율적 자원 배분",
+   "status": "published"
+  },
+  "kcm:concept:intraday-call-auction": {
+   "path": "concepts/intraday-call-auction",
+   "title": "일중 단일가매매",
+   "status": "published"
+  },
+  "kcm:concept:investment-bank": {
+   "path": "concepts/investment-bank",
+   "title": "투자은행",
+   "status": "published"
+  },
+  "kcm:concept:investment-firm": {
+   "path": "concepts/investment-firm",
+   "title": "투자회사",
+   "status": "published"
+  },
+  "kcm:concept:investment-fund": {
+   "path": "concepts/investment-fund",
+   "title": "집합투자기구",
+   "status": "published"
+  },
+  "kcm:concept:investor-classification": {
+   "path": "concepts/investor-classification",
+   "title": "일반투자자와 전문투자자 구분",
+   "status": "published"
+  },
+  "kcm:concept:investor-risk-management": {
+   "path": "concepts/investor-risk-management",
+   "title": "투자자의 효율적 위험관리",
+   "status": "published"
+  },
+  "kcm:concept:k-otc-operation": {
+   "path": "concepts/k-otc-operation",
+   "title": "K-OTC 시장의 법적 근거와 운영 제도",
+   "status": "published"
+  },
+  "kcm:concept:k-otc": {
+   "path": "concepts/k-otc",
+   "title": "K-OTC",
+   "status": "published"
+  },
+  "kcm:concept:kiko": {
+   "path": "concepts/kiko",
+   "title": "키코",
+   "status": "published"
+  },
+  "kcm:concept:knock-in-barrier": {
+   "path": "concepts/knock-in-barrier",
+   "title": "낙인",
+   "status": "published"
+  },
+  "kcm:concept:know-your-customer": {
+   "path": "concepts/know-your-customer",
+   "title": "고객 신원 확인",
+   "status": "published"
+  },
+  "kcm:concept:konex": {
+   "path": "concepts/konex",
+   "title": "코넥스시장",
+   "status": "published"
+  },
+  "kcm:concept:korea-ats-nextrade": {
+   "path": "concepts/korea-ats-nextrade",
+   "title": "한국의 대체거래소(ATS)와 넥스트레이드",
+   "status": "published"
+  },
+  "kcm:concept:korea-corporate-disclosure": {
+   "path": "concepts/korea-corporate-disclosure",
+   "title": "한국 기업공시제도",
+   "status": "published"
+  },
+  "kcm:concept:korea-digital-asset-legislation": {
+   "path": "concepts/korea-digital-asset-legislation",
+   "title": "가상자산이용자보호법과 디지털자산 입법 동향",
+   "status": "published"
+  },
+  "kcm:concept:korea-dls-dlf": {
+   "path": "concepts/korea-dls-dlf",
+   "title": "한국 DLS 시장과 DLF 사태",
+   "status": "published"
+  },
+  "kcm:concept:korea-els-market": {
+   "path": "concepts/korea-els-market",
+   "title": "한국 ELS 시장과 홍콩H지수 ELS 사태",
+   "status": "published"
+  },
+  "kcm:concept:korea-elw-market": {
+   "path": "concepts/korea-elw-market",
+   "title": "한국 ELW 시장",
+   "status": "published"
+  },
+  "kcm:concept:korea-etf-market": {
+   "path": "concepts/korea-etf-market",
+   "title": "한국 ETF 시장",
+   "status": "published"
+  },
+  "kcm:concept:korea-etn-market": {
+   "path": "concepts/korea-etn-market",
+   "title": "한국 ETN 시장",
+   "status": "published"
+  },
+  "kcm:concept:korea-financial-income-taxation": {
+   "path": "concepts/korea-financial-income-taxation",
+   "title": "금융소득 과세와 금융투자소득세 폐지 경과",
+   "status": "published"
+  },
+  "kcm:concept:korea-ipo-system": {
+   "path": "concepts/korea-ipo-system",
+   "title": "한국의 IPO(기업공개) 제도",
+   "status": "published"
+  },
+  "kcm:concept:korea-kofr-benchmark-act": {
+   "path": "concepts/korea-kofr-benchmark-act",
+   "title": "KOFR와 금융거래지표법 (지표금리 개편)",
+   "status": "published"
+  },
+  "kcm:concept:korea-lp-market-maker": {
+   "path": "concepts/korea-lp-market-maker",
+   "title": "한국 유동성공급자(LP)·시장조성자 제도",
+   "status": "published"
+  },
+  "kcm:concept:korea-mandatory-tender-offer": {
+   "path": "concepts/korea-mandatory-tender-offer",
+   "title": "의무공개매수제도",
+   "status": "published"
+  },
+  "kcm:concept:korea-market-stabilizers": {
+   "path": "concepts/korea-market-stabilizers",
+   "title": "한국 시장안정장치 현황과 2026년 발동 이력",
+   "status": "published"
+  },
+  "kcm:concept:korea-market-surveillance": {
+   "path": "concepts/korea-market-surveillance",
+   "title": "한국거래소 시장감시위원회와 주가조작 합동대응단",
+   "status": "published"
+  },
+  "kcm:concept:korea-mmf": {
+   "path": "concepts/korea-mmf",
+   "title": "MMF와 단기금융집합투자기구 (한국 제도와 설정액)",
+   "status": "published"
+  },
+  "kcm:concept:korea-mother-fund": {
+   "path": "concepts/korea-mother-fund",
+   "title": "한국모태펀드",
+   "status": "published"
+  },
+  "kcm:concept:korea-private-fund-classification": {
+   "path": "concepts/korea-private-fund-classification",
+   "title": "한국 사모집합투자기구의 분류와 시장 규모",
+   "status": "published"
+  },
+  "kcm:concept:korea-repo-call-market": {
+   "path": "concepts/korea-repo-call-market",
+   "title": "RP·콜시장 현황과 한국은행 정례 RP 매입",
+   "status": "published"
+  },
+  "kcm:concept:korea-retirement-pension-system": {
+   "path": "concepts/korea-retirement-pension-system",
+   "title": "한국의 퇴직연금·연금계좌 제도",
+   "status": "published"
+  },
+  "kcm:concept:korea-securities-transaction-tax": {
+   "path": "concepts/korea-securities-transaction-tax",
+   "title": "한국 증권거래세와 농어촌특별세 (2021~2026 세율)",
+   "status": "published"
+  },
+  "kcm:concept:korea-short-selling": {
+   "path": "concepts/korea-short-selling",
+   "title": "한국의 공매도 제도와 금지·재개 이력",
+   "status": "published"
+  },
+  "kcm:concept:korea-spac-system": {
+   "path": "concepts/korea-spac-system",
+   "title": "한국 스팩(기업인수목적회사) 법령 요건과 현황",
+   "status": "published"
+  },
+  "kcm:concept:korean-ats": {
+   "path": "concepts/korean-ats",
+   "title": "다자간매매체결회사",
+   "status": "published"
+  },
+  "kcm:concept:kosdaq-market": {
+   "path": "concepts/kosdaq-market",
+   "title": "코스닥시장",
+   "status": "published"
+  },
+  "kcm:concept:kospi-market": {
+   "path": "concepts/kospi-market",
+   "title": "유가증권시장",
+   "status": "published"
+  },
+  "kcm:concept:krx-startup-market": {
+   "path": "concepts/krx-startup-market",
+   "title": "한국거래소스타트업마켓",
+   "status": "published"
+  },
+  "kcm:concept:lamfalussy-process": {
+   "path": "concepts/lamfalussy-process",
+   "title": "람팔루시 절차",
+   "status": "published"
+  },
+  "kcm:concept:large-in-scale": {
+   "path": "concepts/large-in-scale",
+   "title": "대량매매 면제",
+   "status": "published"
+  },
+  "kcm:concept:latency-arbitrage": {
+   "path": "concepts/latency-arbitrage",
+   "title": "속도 차익거래",
+   "status": "published"
+  },
+  "kcm:concept:legal-entity-identifier": {
+   "path": "concepts/legal-entity-identifier",
+   "title": "법인식별기호",
+   "status": "published"
+  },
+  "kcm:concept:libor": {
+   "path": "concepts/libor",
+   "title": "리보",
+   "status": "published"
+  },
+  "kcm:concept:limit-order": {
+   "path": "concepts/limit-order",
+   "title": "지정가주문",
+   "status": "published"
+  },
+  "kcm:concept:limit-up-limit-down": {
+   "path": "concepts/limit-up-limit-down",
+   "title": "LULD",
+   "status": "published"
+  },
+  "kcm:concept:liquidity-externality": {
+   "path": "concepts/liquidity-externality",
+   "title": "유동성 외부효과",
+   "status": "published"
+  },
+  "kcm:concept:liquidity-provider": {
+   "path": "concepts/liquidity-provider",
+   "title": "유동성공급자",
+   "status": "published"
+  },
+  "kcm:concept:lit-pool": {
+   "path": "concepts/lit-pool",
+   "title": "리트풀",
+   "status": "published"
+  },
+  "kcm:concept:main-market": {
+   "path": "concepts/main-market",
+   "title": "주시장",
+   "status": "published"
+  },
+  "kcm:concept:maker-taker-fee": {
+   "path": "concepts/maker-taker-fee",
+   "title": "수수료 체계",
+   "status": "published"
+  },
+  "kcm:concept:margin": {
+   "path": "concepts/margin",
+   "title": "증거금",
+   "status": "published"
+  },
+  "kcm:concept:mark-to-market": {
+   "path": "concepts/mark-to-market",
+   "title": "일일정산",
+   "status": "published"
+  },
+  "kcm:concept:market-based-financial-system": {
+   "path": "concepts/market-based-financial-system",
+   "title": "시장중심 금융시스템",
+   "status": "published"
+  },
+  "kcm:concept:market-data-infrastructure": {
+   "path": "concepts/market-data-infrastructure",
+   "title": "시장 데이터 인프라",
+   "status": "published"
+  },
+  "kcm:concept:market-depth": {
+   "path": "concepts/market-depth",
+   "title": "시장 깊이",
+   "status": "published"
+  },
+  "kcm:concept:market-fragmentation": {
+   "path": "concepts/market-fragmentation",
+   "title": "시장 분할",
+   "status": "published"
+  },
+  "kcm:concept:market-macrostructure": {
+   "path": "concepts/market-macrostructure",
+   "title": "시장거시구조",
+   "status": "published"
+  },
+  "kcm:concept:market-maker": {
+   "path": "concepts/market-maker",
+   "title": "시장조성자",
+   "status": "published"
+  },
+  "kcm:concept:market-microstructure": {
+   "path": "concepts/market-microstructure",
+   "title": "시장미시구조",
+   "status": "published"
+  },
+  "kcm:concept:market-order": {
+   "path": "concepts/market-order",
+   "title": "시장가주문",
+   "status": "published"
+  },
+  "kcm:concept:market-quality": {
+   "path": "concepts/market-quality",
+   "title": "시장의 질적 수준",
+   "status": "published"
+  },
+  "kcm:concept:market-stabilization-measures": {
+   "path": "concepts/market-stabilization-measures",
+   "title": "시장안정화장치",
+   "status": "published"
+  },
+  "kcm:concept:market-surveillance": {
+   "path": "concepts/market-surveillance",
+   "title": "시장감시",
+   "status": "published"
+  },
+  "kcm:concept:market-transparency": {
+   "path": "concepts/market-transparency",
+   "title": "시장 투명성",
+   "status": "published"
+  },
+  "kcm:concept:matching-priority": {
+   "path": "concepts/matching-priority",
+   "title": "매매체결원칙",
+   "status": "published"
+  },
+  "kcm:concept:mifid-investment-firm": {
+   "path": "concepts/mifid-investment-firm",
+   "title": "투자서비스업자",
+   "status": "published"
+  },
+  "kcm:concept:mifid-mifir-review": {
+   "path": "concepts/mifid-mifir-review",
+   "title": "MiFID II/MiFIR 개정(단일상한·PFOF 금지·통합시세)",
+   "status": "published"
+  },
+  "kcm:concept:monetary-stabilization-bond": {
+   "path": "concepts/monetary-stabilization-bond",
+   "title": "통화안정증권",
+   "status": "published"
+  },
+  "kcm:concept:money-market": {
+   "path": "concepts/money-market",
+   "title": "단기금융시장",
+   "status": "published"
+  },
+  "kcm:concept:most-favorable-order": {
+   "path": "concepts/most-favorable-order",
+   "title": "최유리지정가주문",
+   "status": "published"
+  },
+  "kcm:concept:multilateral-trading-facility": {
+   "path": "concepts/multilateral-trading-facility",
+   "title": "다자간거래설비",
+   "status": "published"
+  },
+  "kcm:concept:mutual-compensation-fund": {
+   "path": "concepts/mutual-compensation-fund",
+   "title": "손해배상공동기금",
+   "status": "published"
+  },
+  "kcm:concept:natural-monopoly": {
+   "path": "concepts/natural-monopoly",
+   "title": "자연독점",
+   "status": "published"
+  },
+  "kcm:concept:nbbo": {
+   "path": "concepts/nbbo",
+   "title": "전국 최우선매수·매도호가",
+   "status": "published"
+  },
+  "kcm:concept:net-asset-value": {
+   "path": "concepts/net-asset-value",
+   "title": "순자산가치",
+   "status": "published"
+  },
+  "kcm:concept:net-present-value": {
+   "path": "concepts/net-present-value",
+   "title": "순현재가치",
+   "status": "published"
+  },
+  "kcm:concept:netting": {
+   "path": "concepts/netting",
+   "title": "네팅",
+   "status": "published"
+  },
+  "kcm:concept:next-exture": {
+   "path": "concepts/next-exture",
+   "title": "Next EXTURE+",
+   "status": "published"
+  },
+  "kcm:concept:nickel-etn-incident-2022": {
+   "path": "concepts/nickel-etn-incident-2022",
+   "title": "2022년 니켈 ETN 사태",
+   "status": "published"
+  },
+  "kcm:concept:nominated-adviser": {
+   "path": "concepts/nominated-adviser",
+   "title": "지정자문인",
+   "status": "published"
+  },
+  "kcm:concept:non-competitive-trading": {
+   "path": "concepts/non-competitive-trading",
+   "title": "비경쟁매매",
+   "status": "published"
+  },
+  "kcm:concept:non-equity-instruments": {
+   "path": "concepts/non-equity-instruments",
+   "title": "비지분형상품",
+   "status": "published"
+  },
+  "kcm:concept:novation": {
+   "path": "concepts/novation",
+   "title": "경개",
+   "status": "published"
+  },
+  "kcm:concept:odd-lot": {
+   "path": "concepts/odd-lot",
+   "title": "단주 주문",
+   "status": "published"
+  },
+  "kcm:concept:option-multiplier": {
+   "path": "concepts/option-multiplier",
+   "title": "옵션 승수",
+   "status": "published"
+  },
+  "kcm:concept:option-shock": {
+   "path": "concepts/option-shock",
+   "title": "옵션 쇼크",
+   "status": "published"
+  },
+  "kcm:concept:option": {
+   "path": "concepts/option",
+   "title": "옵션",
+   "status": "published"
+  },
+  "kcm:concept:order-book": {
+   "path": "concepts/order-book",
+   "title": "주문장",
+   "status": "published"
+  },
+  "kcm:concept:order-conditions": {
+   "path": "concepts/order-conditions",
+   "title": "주문 제출 조건",
+   "status": "published"
+  },
+  "kcm:concept:order-types": {
+   "path": "concepts/order-types",
+   "title": "주문유형",
+   "status": "published"
+  },
+  "kcm:concept:organized-otc-market": {
+   "path": "concepts/organized-otc-market",
+   "title": "조직화한 장외시장",
+   "status": "published"
+  },
+  "kcm:concept:organized-trading-facility": {
+   "path": "concepts/organized-trading-facility",
+   "title": "조직화한 거래설비",
+   "status": "published"
+  },
+  "kcm:concept:otcbb": {
+   "path": "concepts/otcbb",
+   "title": "OTCBB",
+   "status": "published"
+  },
+  "kcm:concept:over-the-counter-market": {
+   "path": "concepts/over-the-counter-market",
+   "title": "장외시장",
+   "status": "published"
+  },
+  "kcm:concept:pass-through-and-pay-through": {
+   "path": "concepts/pass-through-and-pay-through",
+   "title": "패스-스루와 페이-스루",
+   "status": "published"
+  },
+  "kcm:concept:payment-for-order-flow": {
+   "path": "concepts/payment-for-order-flow",
+   "title": "주문흐름 대가",
+   "status": "published"
+  },
+  "kcm:concept:pipe-investment": {
+   "path": "concepts/pipe-investment",
+   "title": "파이프 투자",
+   "status": "published"
+  },
+  "kcm:concept:price-discovery": {
+   "path": "concepts/price-discovery",
+   "title": "가격발견",
+   "status": "published"
+  },
+  "kcm:concept:price-limit-system": {
+   "path": "concepts/price-limit-system",
+   "title": "가격제한폭제도",
+   "status": "published"
+  },
+  "kcm:concept:primary-market": {
+   "path": "concepts/primary-market",
+   "title": "발행시장",
+   "status": "published"
+  },
+  "kcm:concept:prime-brokerage": {
+   "path": "concepts/prime-brokerage",
+   "title": "전담중개업무",
+   "status": "published"
+  },
+  "kcm:concept:principles-for-fmi": {
+   "path": "concepts/principles-for-fmi",
+   "title": "FMI 원칙",
+   "status": "published"
+  },
+  "kcm:concept:private-equity-fund": {
+   "path": "concepts/private-equity-fund",
+   "title": "사모펀드",
+   "status": "published"
+  },
+  "kcm:concept:private-markets": {
+   "path": "concepts/private-markets",
+   "title": "사적 자본시장",
+   "status": "published"
+  },
+  "kcm:concept:production-capacity-utilization": {
+   "path": "concepts/production-capacity-utilization",
+   "title": "기존 생산설비 능력 효율적 활용",
+   "status": "published"
+  },
+  "kcm:concept:program-trading": {
+   "path": "concepts/program-trading",
+   "title": "프로그램매매",
+   "status": "published"
+  },
+  "kcm:concept:protected-quote": {
+   "path": "concepts/protected-quote",
+   "title": "보호호가",
+   "status": "published"
+  },
+  "kcm:concept:protective-put": {
+   "path": "concepts/protective-put",
+   "title": "프로텍티브 풋",
+   "status": "published"
+  },
+  "kcm:concept:public-fund": {
+   "path": "concepts/public-fund",
+   "title": "공모펀드",
+   "status": "published"
+  },
+  "kcm:concept:qfii-rqfii": {
+   "path": "concepts/qfii-rqfii",
+   "title": "적격외국인투자자 제도(QFII·RQFII)",
+   "status": "published"
+  },
+  "kcm:concept:qualified-institutional-buyer": {
+   "path": "concepts/qualified-institutional-buyer",
+   "title": "적격기관투자자",
+   "status": "published"
+  },
+  "kcm:concept:quote-disclosure-range": {
+   "path": "concepts/quote-disclosure-range",
+   "title": "호가공개범위",
+   "status": "published"
+  },
+  "kcm:concept:random-end-call-auction": {
+   "path": "concepts/random-end-call-auction",
+   "title": "임의종료 단일가매매",
+   "status": "published"
+  },
+  "kcm:concept:real-estate-investment-trust": {
+   "path": "concepts/real-estate-investment-trust",
+   "title": "부동산투자회사",
+   "status": "published"
+  },
+  "kcm:concept:real-time-gross-settlement": {
+   "path": "concepts/real-time-gross-settlement",
+   "title": "실시간총량결제",
+   "status": "published"
+  },
+  "kcm:concept:recognised-investment-exchange": {
+   "path": "concepts/recognised-investment-exchange",
+   "title": "인가 투자거래소",
+   "status": "published"
+  },
+  "kcm:concept:reg-nms-amendments-2024-2026": {
+   "path": "concepts/reg-nms-amendments-2024-2026",
+   "title": "Reg NMS 2024~2026 개정과 Rule 611 폐지 제안",
+   "status": "published"
+  },
+  "kcm:concept:regulated-market": {
+   "path": "concepts/regulated-market",
+   "title": "정규거래소(RM)",
+   "status": "published"
+  },
+  "kcm:concept:regulatory-convergence": {
+   "path": "concepts/regulatory-convergence",
+   "title": "법제 간 수렴",
+   "status": "published"
+  },
+  "kcm:concept:relative-tick-size": {
+   "path": "concepts/relative-tick-size",
+   "title": "상대호가단위",
+   "status": "published"
+  },
+  "kcm:concept:repo": {
+   "path": "concepts/repo",
+   "title": "환매조건부채권",
+   "status": "published"
+  },
+  "kcm:concept:research-unbundling": {
+   "path": "concepts/research-unbundling",
+   "title": "Research Unbundling",
+   "status": "published"
+  },
+  "kcm:concept:reverse-takeover": {
+   "path": "concepts/reverse-takeover",
+   "title": "우회상장",
+   "status": "published"
+  },
+  "kcm:concept:risk-free-rate": {
+   "path": "concepts/risk-free-rate",
+   "title": "무위험지표금리",
+   "status": "published"
+  },
+  "kcm:concept:risk-retention-rule": {
+   "path": "concepts/risk-retention-rule",
+   "title": "위험보유규제",
+   "status": "published"
+  },
+  "kcm:concept:secondary-market": {
+   "path": "concepts/secondary-market",
+   "title": "유통시장",
+   "status": "published"
+  },
+  "kcm:concept:securities-finance": {
+   "path": "concepts/securities-finance",
+   "title": "증권금융",
+   "status": "published"
+  },
+  "kcm:concept:securities-information-processor": {
+   "path": "concepts/securities-information-processor",
+   "title": "증권정보프로세서",
+   "status": "published"
+  },
+  "kcm:concept:security-token": {
+   "path": "concepts/security-token",
+   "title": "증권형 토큰",
+   "status": "published"
+  },
+  "kcm:concept:self-regulation": {
+   "path": "concepts/self-regulation",
+   "title": "자율규제",
+   "status": "published"
+  },
+  "kcm:concept:seniority": {
+   "path": "concepts/seniority",
+   "title": "선순위",
+   "status": "published"
+  },
+  "kcm:concept:settlement-cycle": {
+   "path": "concepts/settlement-cycle",
+   "title": "결제 주기",
+   "status": "published"
+  },
+  "kcm:concept:settlement-fund": {
+   "path": "concepts/settlement-fund",
+   "title": "결제적립금",
+   "status": "published"
+  },
+  "kcm:concept:settlement": {
+   "path": "concepts/settlement",
+   "title": "결제",
+   "status": "published"
+  },
+  "kcm:concept:shanghai-hong-kong-connect": {
+   "path": "concepts/shanghai-hong-kong-connect",
+   "title": "후강퉁(상하이-홍콩 스톡커넥트)",
+   "status": "published"
+  },
+  "kcm:concept:shanghai-london-connect": {
+   "path": "concepts/shanghai-london-connect",
+   "title": "후룬퉁(상하이-런던 스톡커넥트)",
+   "status": "published"
+  },
+  "kcm:concept:shenzhen-hong-kong-connect": {
+   "path": "concepts/shenzhen-hong-kong-connect",
+   "title": "선강퉁(선전-홍콩 스톡커넥트)",
+   "status": "published"
+  },
+  "kcm:concept:short-selling": {
+   "path": "concepts/short-selling",
+   "title": "공매도",
+   "status": "published"
+  },
+  "kcm:concept:short-term-bond": {
+   "path": "concepts/short-term-bond",
+   "title": "단기사채",
+   "status": "published"
+  },
+  "kcm:concept:short-term-overheating-mitigation": {
+   "path": "concepts/short-term-overheating-mitigation",
+   "title": "단기과열완화장치",
+   "status": "published"
+  },
+  "kcm:concept:sidecar": {
+   "path": "concepts/sidecar",
+   "title": "사이드카",
+   "status": "published"
+  },
+  "kcm:concept:single-passport": {
+   "path": "concepts/single-passport",
+   "title": "단일여권제도",
+   "status": "published"
+  },
+  "kcm:concept:size-discovery": {
+   "path": "concepts/size-discovery",
+   "title": "물량발견",
+   "status": "published"
+  },
+  "kcm:concept:soft-dollar": {
+   "path": "concepts/soft-dollar",
+   "title": "소프트 달러",
+   "status": "published"
+  },
+  "kcm:concept:special-purpose-acquisition-company": {
+   "path": "concepts/special-purpose-acquisition-company",
+   "title": "기업인수목적회사",
+   "status": "published"
+  },
+  "kcm:concept:special-purpose-vehicle": {
+   "path": "concepts/special-purpose-vehicle",
+   "title": "유동화전문회사",
+   "status": "published"
+  },
+  "kcm:concept:speed-bump": {
+   "path": "concepts/speed-bump",
+   "title": "Speed Bump(과속방지턱)",
+   "status": "published"
+  },
+  "kcm:concept:stock-connect": {
+   "path": "concepts/stock-connect",
+   "title": "교차거래(Stock Connect)",
+   "status": "published"
+  },
+  "kcm:concept:stock-market-structure": {
+   "path": "concepts/stock-market-structure",
+   "title": "주식시장구조",
+   "status": "published"
+  },
+  "kcm:concept:stock-price-index": {
+   "path": "concepts/stock-price-index",
+   "title": "주가지수",
+   "status": "published"
+  },
+  "kcm:concept:stock-trading-process": {
+   "path": "concepts/stock-trading-process",
+   "title": "주식거래과정",
+   "status": "published"
+  },
+  "kcm:concept:stock": {
+   "path": "concepts/stock",
+   "title": "주식",
+   "status": "published"
+  },
+  "kcm:concept:structured-product": {
+   "path": "concepts/structured-product",
+   "title": "구조화상품",
+   "status": "published"
+  },
+  "kcm:concept:suitability-principle": {
+   "path": "concepts/suitability-principle",
+   "title": "적합성원칙",
+   "status": "published"
+  },
+  "kcm:concept:swap-basis": {
+   "path": "concepts/swap-basis",
+   "title": "스왑베이시스",
+   "status": "published"
+  },
+  "kcm:concept:swap-connect": {
+   "path": "concepts/swap-connect",
+   "title": "스왑퉁(Swap Connect)",
+   "status": "published"
+  },
+  "kcm:concept:swap-data-repository": {
+   "path": "concepts/swap-data-repository",
+   "title": "스왑데이터저장소",
+   "status": "published"
+  },
+  "kcm:concept:swap-execution-facility": {
+   "path": "concepts/swap-execution-facility",
+   "title": "스왑체결설비",
+   "status": "published"
+  },
+  "kcm:concept:synthetic-cdo": {
+   "path": "concepts/synthetic-cdo",
+   "title": "합성부채담보부증권",
+   "status": "published"
+  },
+  "kcm:concept:systematic-internaliser": {
+   "path": "concepts/systematic-internaliser",
+   "title": "시스템적 내부체결기능제공자",
+   "status": "published"
+  },
+  "kcm:concept:systemic-risk": {
+   "path": "concepts/systemic-risk",
+   "title": "시스템 위험",
+   "status": "published"
+  },
+  "kcm:concept:systemically-important-financial-institution": {
+   "path": "concepts/systemically-important-financial-institution",
+   "title": "시스템적으로 중요한 금융기관",
+   "status": "published"
+  },
+  "kcm:concept:target2-securities": {
+   "path": "concepts/target2-securities",
+   "title": "TARGET2-Securities",
+   "status": "published"
+  },
+  "kcm:concept:tick-size": {
+   "path": "concepts/tick-size",
+   "title": "호가단위",
+   "status": "published"
+  },
+  "kcm:concept:top-priority-order": {
+   "path": "concepts/top-priority-order",
+   "title": "최우선지정가주문",
+   "status": "published"
+  },
+  "kcm:concept:total-return-swap": {
+   "path": "concepts/total-return-swap",
+   "title": "총수익스왑",
+   "status": "published"
+  },
+  "kcm:concept:trade-confirmation": {
+   "path": "concepts/trade-confirmation",
+   "title": "거래확인",
+   "status": "published"
+  },
+  "kcm:concept:trade-reporting-facility": {
+   "path": "concepts/trade-reporting-facility",
+   "title": "장외주식거래보고설비(TRF)",
+   "status": "published"
+  },
+  "kcm:concept:trade-repository": {
+   "path": "concepts/trade-repository",
+   "title": "거래정보저장소",
+   "status": "published"
+  },
+  "kcm:concept:trade-through": {
+   "path": "concepts/trade-through",
+   "title": "최우선호가 무시",
+   "status": "published"
+  },
+  "kcm:concept:trading-halt": {
+   "path": "concepts/trading-halt",
+   "title": "개별종목 매매거래정지",
+   "status": "published"
+  },
+  "kcm:concept:trading-obligations": {
+   "path": "concepts/trading-obligations",
+   "title": "거래의무(STO·DTO)",
+   "status": "published"
+  },
+  "kcm:concept:trading-unit": {
+   "path": "concepts/trading-unit",
+   "title": "매매수량단위",
+   "status": "published"
+  },
+  "kcm:concept:trading-venue": {
+   "path": "concepts/trading-venue",
+   "title": "거래시장",
+   "status": "published"
+  },
+  "kcm:concept:tranche": {
+   "path": "concepts/tranche",
+   "title": "트랜치",
+   "status": "published"
+  },
+  "kcm:concept:true-sale": {
+   "path": "concepts/true-sale",
+   "title": "완전매각",
+   "status": "published"
+  },
+  "kcm:concept:twin-peaks-regulation": {
+   "path": "concepts/twin-peaks-regulation",
+   "title": "쌍봉형 규제",
+   "status": "published"
+  },
+  "kcm:concept:two-tier-market": {
+   "path": "concepts/two-tier-market",
+   "title": "2단계 시장",
+   "status": "published"
+  },
+  "kcm:concept:uk-financial-regulatory-structure": {
+   "path": "concepts/uk-financial-regulatory-structure",
+   "title": "영국 금융감독 체계의 변천(2000~2023)",
+   "status": "published"
+  },
+  "kcm:concept:uk-listing-regime-reform": {
+   "path": "concepts/uk-listing-regime-reform",
+   "title": "영국 상장제도 개편(UKLR·POATRs·PISCES)",
+   "status": "published"
+  },
+  "kcm:concept:unsolicited-solicitation-ban": {
+   "path": "concepts/unsolicited-solicitation-ban",
+   "title": "요청하지 않은 투자권유 금지",
+   "status": "published"
+  },
+  "kcm:concept:us-best-execution-duty": {
+   "path": "concepts/us-best-execution-duty",
+   "title": "미국 최선집행의무(FINRA Rule 5310)와 Reg Best Ex 철회",
+   "status": "published"
+  },
+  "kcm:concept:us-hft-speed-bump-internalization": {
+   "path": "concepts/us-hft-speed-bump-internalization",
+   "title": "미국 장외 체결 비중·IEX 속도 지연·딜러 규칙",
+   "status": "published"
+  },
+  "kcm:concept:vertical-integration": {
+   "path": "concepts/vertical-integration",
+   "title": "수직 통합",
+   "status": "published"
+  },
+  "kcm:concept:virtual-single-platform": {
+   "path": "concepts/virtual-single-platform",
+   "title": "가상 단일시장",
+   "status": "published"
+  },
+  "kcm:concept:volatility-interruption": {
+   "path": "concepts/volatility-interruption",
+   "title": "변동성완화장치",
+   "status": "published"
+  },
+  "kcm:concept:vwap": {
+   "path": "concepts/vwap",
+   "title": "거래량가중평균가격",
+   "status": "published"
+  },
+  "kcm:concept:wag-the-dog": {
+   "path": "concepts/wag-the-dog",
+   "title": "왝더독",
+   "status": "published"
+  },
+  "kcm:concept:welfare-economics-first-theorem": {
+   "path": "concepts/welfare-economics-first-theorem",
+   "title": "후생경제학 제1정리",
+   "status": "published"
+  },
+  "kcm:index:index": {
+   "path": "index",
+   "title": "index",
+   "status": "published"
+  },
+  "kcm:institution:aquis-exchange": {
+   "path": "institutions/aquis-exchange",
+   "title": "아퀴스거래소",
+   "status": "published"
+  },
+  "kcm:institution:asx-group-chess-replacement": {
+   "path": "institutions/asx-group-chess-replacement",
+   "title": "호주증권거래소(ASX)와 CHESS 교체",
+   "status": "published"
+  },
+  "kcm:institution:bank-of-england": {
+   "path": "institutions/bank-of-england",
+   "title": "영란은행",
+   "status": "published"
+  },
+  "kcm:institution:bank-of-korea": {
+   "path": "institutions/bank-of-korea",
+   "title": "한국은행",
+   "status": "published"
+  },
+  "kcm:institution:bcbs": {
+   "path": "institutions/bcbs",
+   "title": "바젤은행감독위원회",
+   "status": "published"
+  },
+  "kcm:institution:bis": {
+   "path": "institutions/bis",
+   "title": "국제결제은행",
+   "status": "published"
+  },
+  "kcm:institution:cboe": {
+   "path": "institutions/cboe",
+   "title": "시카고옵션거래소",
+   "status": "published"
+  },
+  "kcm:institution:cesr": {
+   "path": "institutions/cesr",
+   "title": "유럽증권규제위원회",
+   "status": "published"
+  },
+  "kcm:institution:cftc": {
+   "path": "institutions/cftc",
+   "title": "상품선물거래위원회",
+   "status": "published"
+  },
+  "kcm:institution:china-securities-depository-and-clearing": {
+   "path": "institutions/china-securities-depository-and-clearing",
+   "title": "중국예탁결제(ChinaClear)",
+   "status": "published"
+  },
+  "kcm:institution:china-securities-regulatory-commission": {
+   "path": "institutions/china-securities-regulatory-commission",
+   "title": "중국증권감독관리위원회(CSRC)",
+   "status": "published"
+  },
+  "kcm:institution:clearstream": {
+   "path": "institutions/clearstream",
+   "title": "Clearstream",
+   "status": "published"
+  },
+  "kcm:institution:cme-group-and-cboe-update": {
+   "path": "institutions/cme-group-and-cboe-update",
+   "title": "CME 그룹·Cboe 글로벌 마켓의 2025~2026 변화",
+   "status": "published"
+  },
+  "kcm:institution:cme-group": {
+   "path": "institutions/cme-group",
+   "title": "시카고상품거래소 그룹",
+   "status": "published"
+  },
+  "kcm:institution:deutsche-boerse-group": {
+   "path": "institutions/deutsche-boerse-group",
+   "title": "도이체 뵈르제 그룹(2025~2026 실적과 Allfunds 인수)",
+   "status": "published"
+  },
+  "kcm:institution:deutsche-boerse": {
+   "path": "institutions/deutsche-boerse",
+   "title": "독일거래소",
+   "status": "published"
+  },
+  "kcm:institution:dtcc": {
+   "path": "institutions/dtcc",
+   "title": "DTCC",
+   "status": "published"
+  },
+  "kcm:institution:ecb": {
+   "path": "institutions/ecb",
+   "title": "유럽중앙은행",
+   "status": "published"
+  },
+  "kcm:institution:esma": {
+   "path": "institutions/esma",
+   "title": "유럽증권시장청",
+   "status": "published"
+  },
+  "kcm:institution:eurex": {
+   "path": "institutions/eurex",
+   "title": "Eurex",
+   "status": "published"
+  },
+  "kcm:institution:euroclear-clearstream-t2s": {
+   "path": "institutions/euroclear-clearstream-t2s",
+   "title": "유로클리어·클리어스트림·T2S",
+   "status": "published"
+  },
+  "kcm:institution:euroclear": {
+   "path": "institutions/euroclear",
+   "title": "유로클리어",
+   "status": "published"
+  },
+  "kcm:institution:euronext-group": {
+   "path": "institutions/euronext-group",
+   "title": "유로넥스트(Euronext) 최근 현황",
+   "status": "published"
+  },
+  "kcm:institution:euronext": {
+   "path": "institutions/euronext",
+   "title": "유로넥스트",
+   "status": "published"
+  },
+  "kcm:institution:european-commission": {
+   "path": "institutions/european-commission",
+   "title": "유럽집행위원회",
+   "status": "published"
+  },
+  "kcm:institution:fca": {
+   "path": "institutions/fca",
+   "title": "금융행위청",
+   "status": "published"
+  },
+  "kcm:institution:financial-dispute-mediation-committee": {
+   "path": "institutions/financial-dispute-mediation-committee",
+   "title": "금융분쟁조정위원회",
+   "status": "published"
+  },
+  "kcm:institution:financial-services-authority": {
+   "path": "institutions/financial-services-authority",
+   "title": "금융서비스청",
+   "status": "published"
+  },
+  "kcm:institution:financial-services-commission": {
+   "path": "institutions/financial-services-commission",
+   "title": "금융위원회(FSC)",
+   "status": "published"
+  },
+  "kcm:institution:financial-supervisory-service": {
+   "path": "institutions/financial-supervisory-service",
+   "title": "금융감독원(FSS)",
+   "status": "published"
+  },
+  "kcm:institution:finra-self-regulatory-organization": {
+   "path": "institutions/finra-self-regulatory-organization",
+   "title": "FINRA의 현재 구조와 감독 체계",
+   "status": "published"
+  },
+  "kcm:institution:finra": {
+   "path": "institutions/finra",
+   "title": "금융산업규제국",
+   "status": "published"
+  },
+  "kcm:institution:fsb": {
+   "path": "institutions/fsb",
+   "title": "금융안정위원회",
+   "status": "published"
+  },
+  "kcm:institution:fsoc": {
+   "path": "institutions/fsoc",
+   "title": "금융안정감시위원회",
+   "status": "published"
+  },
+  "kcm:institution:g20-summit": {
+   "path": "institutions/g20-summit",
+   "title": "G20 정상회의",
+   "status": "published"
+  },
+  "kcm:institution:hkex": {
+   "path": "institutions/hkex",
+   "title": "홍콩거래소그룹(HKEX)",
+   "status": "published"
+  },
+  "kcm:institution:hong-kong-monetary-authority": {
+   "path": "institutions/hong-kong-monetary-authority",
+   "title": "홍콩금융관리국(HKMA)",
+   "status": "published"
+  },
+  "kcm:institution:hong-kong-securities-clearing-company": {
+   "path": "institutions/hong-kong-securities-clearing-company",
+   "title": "홍콩증권결제회사(HKSCC)와 CCASS",
+   "status": "published"
+  },
+  "kcm:institution:iais": {
+   "path": "institutions/iais",
+   "title": "국제보험감독자협의회",
+   "status": "published"
+  },
+  "kcm:institution:ice": {
+   "path": "institutions/ice",
+   "title": "인터콘티넨털거래소",
+   "status": "published"
+  },
+  "kcm:institution:imf": {
+   "path": "institutions/imf",
+   "title": "국제통화기금",
+   "status": "published"
+  },
+  "kcm:institution:iosco": {
+   "path": "institutions/iosco",
+   "title": "국제증권감독기구",
+   "status": "published"
+  },
+  "kcm:institution:isda": {
+   "path": "institutions/isda",
+   "title": "국제스왑·파생상품협회",
+   "status": "published"
+  },
+  "kcm:institution:japan-exchange-group": {
+   "path": "institutions/japan-exchange-group",
+   "title": "일본거래소",
+   "status": "published"
+  },
+  "kcm:institution:korea-development-bank": {
+   "path": "institutions/korea-development-bank",
+   "title": "한국산업은행(KDB)과 정책금융",
+   "status": "published"
+  },
+  "kcm:institution:korea-exchange": {
+   "path": "institutions/korea-exchange",
+   "title": "한국거래소",
+   "status": "published"
+  },
+  "kcm:institution:korea-financial-investment-association": {
+   "path": "institutions/korea-financial-investment-association",
+   "title": "한국금융투자협회",
+   "status": "published"
+  },
+  "kcm:institution:korea-futures-exchange": {
+   "path": "institutions/korea-futures-exchange",
+   "title": "한국선물거래소",
+   "status": "published"
+  },
+  "kcm:institution:korea-securities-depository": {
+   "path": "institutions/korea-securities-depository",
+   "title": "한국예탁결제원",
+   "status": "published"
+  },
+  "kcm:institution:korea-securities-finance-corp": {
+   "path": "institutions/korea-securities-finance-corp",
+   "title": "한국증권금융",
+   "status": "published"
+  },
+  "kcm:institution:korea-stock-exchange": {
+   "path": "institutions/korea-stock-exchange",
+   "title": "한국증권거래소",
+   "status": "published"
+  },
+  "kcm:institution:koscom-business-areas": {
+   "path": "institutions/koscom-business-areas",
+   "title": "코스콤의 사업 영역",
+   "status": "published"
+  },
+  "kcm:institution:koscom": {
+   "path": "institutions/koscom",
+   "title": "코스콤",
+   "status": "published"
+  },
+  "kcm:institution:krx-tr": {
+   "path": "institutions/krx-tr",
+   "title": "KRX 거래정보저장소",
+   "status": "published"
+  },
+  "kcm:institution:ksd-legal-status-e-securities": {
+   "path": "institutions/ksd-legal-status-e-securities",
+   "title": "한국예탁결제원의 법적 근거와 전자증권제도",
+   "status": "published"
+  },
+  "kcm:institution:lch-group": {
+   "path": "institutions/lch-group",
+   "title": "LCH 그룹",
+   "status": "published"
+  },
+  "kcm:institution:lch": {
+   "path": "institutions/lch",
+   "title": "런던청산소",
+   "status": "published"
+  },
+  "kcm:institution:london-metal-exchange": {
+   "path": "institutions/london-metal-exchange",
+   "title": "런던금속거래소(LME)와 LME Clear",
+   "status": "published"
+  },
+  "kcm:institution:london-stock-exchange-group": {
+   "path": "institutions/london-stock-exchange-group",
+   "title": "런던증권거래소 그룹(LSEG) 최근 현황",
+   "status": "published"
+  },
+  "kcm:institution:lseg": {
+   "path": "institutions/lseg",
+   "title": "런던증권거래소 그룹",
+   "status": "published"
+  },
+  "kcm:institution:nasdaq": {
+   "path": "institutions/nasdaq",
+   "title": "나스닥",
+   "status": "published"
+  },
+  "kcm:institution:nyse-arca": {
+   "path": "institutions/nyse-arca",
+   "title": "NYSE 아카",
+   "status": "published"
+  },
+  "kcm:institution:nyse": {
+   "path": "institutions/nyse",
+   "title": "뉴욕증권거래소",
+   "status": "published"
+  },
+  "kcm:institution:options-clearing-corporation": {
+   "path": "institutions/options-clearing-corporation",
+   "title": "옵션청산공사(OCC)",
+   "status": "published"
+  },
+  "kcm:institution:otc-clearing-hong-kong": {
+   "path": "institutions/otc-clearing-hong-kong",
+   "title": "OTC Clear(홍콩 장외파생 청산소)",
+   "status": "published"
+  },
+  "kcm:institution:otc-markets-group": {
+   "path": "institutions/otc-markets-group",
+   "title": "OTC Markets Group",
+   "status": "published"
+  },
+  "kcm:institution:pboc": {
+   "path": "institutions/pboc",
+   "title": "중국인민은행(PBOC)",
+   "status": "published"
+  },
+  "kcm:institution:sec": {
+   "path": "institutions/sec",
+   "title": "증권거래위원회",
+   "status": "published"
+  },
+  "kcm:institution:securities-and-futures-commission-korea": {
+   "path": "institutions/securities-and-futures-commission-korea",
+   "title": "한국 증권선물위원회(증선위)",
+   "status": "published"
+  },
+  "kcm:institution:securities-and-futures-commission": {
+   "path": "institutions/securities-and-futures-commission",
+   "title": "홍콩 증권선물감시위원회(SFC)",
+   "status": "published"
+  },
+  "kcm:institution:securities-and-investments-board": {
+   "path": "institutions/securities-and-investments-board",
+   "title": "증권투자위원회",
+   "status": "published"
+  },
+  "kcm:institution:shanghai-stock-exchange": {
+   "path": "institutions/shanghai-stock-exchange",
+   "title": "상하이증권거래소",
+   "status": "published"
+  },
+  "kcm:institution:shenzhen-stock-exchange": {
+   "path": "institutions/shenzhen-stock-exchange",
+   "title": "선전증권거래소",
+   "status": "published"
+  },
+  "kcm:institution:six-group": {
+   "path": "institutions/six-group",
+   "title": "SIX 그룹과 아퀴스(Aquis) 인수",
+   "status": "published"
+  },
+  "kcm:institution:stock-exchange-of-hong-kong": {
+   "path": "institutions/stock-exchange-of-hong-kong",
+   "title": "홍콩증권거래소(SEHK)",
+   "status": "published"
+  },
+  "kcm:institution:tmx-group": {
+   "path": "institutions/tmx-group",
+   "title": "TMX 그룹(캐나다)",
+   "status": "published"
+  },
+  "kcm:institution:turquoise": {
+   "path": "institutions/turquoise",
+   "title": "Turquoise",
+   "status": "published"
+  },
+  "kcm:institution:world-bank": {
+   "path": "institutions/world-bank",
+   "title": "세계은행",
+   "status": "published"
+  },
+  "kcm:metric:cds-spread": {
+   "path": "metrics/cds-spread",
+   "title": "CDS 스프레드",
+   "status": "published"
+  },
+  "kcm:metric:differential-rate": {
+   "path": "metrics/differential-rate",
+   "title": "괴리율",
+   "status": "published"
+  },
+  "kcm:metric:fund-base-price": {
+   "path": "metrics/fund-base-price",
+   "title": "펀드 기준가격",
+   "status": "published"
+  },
+  "kcm:metric:swap-spread": {
+   "path": "metrics/swap-spread",
+   "title": "스왑 스프레드",
+   "status": "published"
+  },
+  "kcm:metric:tracking-error": {
+   "path": "metrics/tracking-error",
+   "title": "추적오차",
+   "status": "published"
+  },
+  "kcm:regulation:access-rule": {
+   "path": "regulations/access-rule",
+   "title": "Access Rule(Rule 610)",
+   "status": "published"
+  },
+  "kcm:regulation:asset-securitization-act": {
+   "path": "regulations/asset-securitization-act",
+   "title": "자산유동화에 관한 법률",
+   "status": "published"
+  },
+  "kcm:regulation:capital-markets-act": {
+   "path": "regulations/capital-markets-act",
+   "title": "자본시장과 금융투자업에 관한 법률",
+   "status": "published"
+  },
+  "kcm:regulation:dodd-frank-act": {
+   "path": "regulations/dodd-frank-act",
+   "title": "Dodd-Frank Act",
+   "status": "published"
+  },
+  "kcm:regulation:emir": {
+   "path": "regulations/emir",
+   "title": "EMIR",
+   "status": "published"
+  },
+  "kcm:regulation:financial-services-act-1986": {
+   "path": "regulations/financial-services-act-1986",
+   "title": "1986년 금융서비스법",
+   "status": "published"
+  },
+  "kcm:regulation:financial-services-act-2012": {
+   "path": "regulations/financial-services-act-2012",
+   "title": "2012년 금융서비스법",
+   "status": "published"
+  },
+  "kcm:regulation:financial-services-and-markets-act-2000": {
+   "path": "regulations/financial-services-and-markets-act-2000",
+   "title": "금융서비스시장법",
+   "status": "published"
+  },
+  "kcm:regulation:glass-steagall-act": {
+   "path": "regulations/glass-steagall-act",
+   "title": "Glass-Steagall Act",
+   "status": "published"
+  },
+  "kcm:regulation:investment-services-directive": {
+   "path": "regulations/investment-services-directive",
+   "title": "투자서비스지침",
+   "status": "published"
+  },
+  "kcm:regulation:jobs-act": {
+   "path": "regulations/jobs-act",
+   "title": "JOBS Act",
+   "status": "published"
+  },
+  "kcm:regulation:market-data-rules": {
+   "path": "regulations/market-data-rules",
+   "title": "시장 데이터 규칙(Rules 601~603)",
+   "status": "published"
+  },
+  "kcm:regulation:mifid-ii-mifir": {
+   "path": "regulations/mifid-ii-mifir",
+   "title": "MiFID II/MiFIR",
+   "status": "published"
+  },
+  "kcm:regulation:mifid-ii-quick-fix-directive": {
+   "path": "regulations/mifid-ii-quick-fix-directive",
+   "title": "MiFID II Quick Fix Directive",
+   "status": "published"
+  },
+  "kcm:regulation:mifid": {
+   "path": "regulations/mifid",
+   "title": "MiFID",
+   "status": "published"
+  },
+  "kcm:regulation:order-competition-rule": {
+   "path": "regulations/order-competition-rule",
+   "title": "Order Competition Rule(Rule 615)",
+   "status": "published"
+  },
+  "kcm:regulation:order-handling-rules": {
+   "path": "regulations/order-handling-rules",
+   "title": "주문 처리 규칙",
+   "status": "published"
+  },
+  "kcm:regulation:order-protection-rule": {
+   "path": "regulations/order-protection-rule",
+   "title": "Order Protection Rule(Rule 611)",
+   "status": "published"
+  },
+  "kcm:regulation:real-estate-investment-companies-act": {
+   "path": "regulations/real-estate-investment-companies-act",
+   "title": "부동산투자회사법",
+   "status": "published"
+  },
+  "kcm:regulation:reg-ats": {
+   "path": "regulations/reg-ats",
+   "title": "Reg ATS",
+   "status": "published"
+  },
+  "kcm:regulation:reg-nms": {
+   "path": "regulations/reg-nms",
+   "title": "Reg NMS",
+   "status": "published"
+  },
+  "kcm:regulation:regulation-best-execution": {
+   "path": "regulations/regulation-best-execution",
+   "title": "Regulation Best Execution",
+   "status": "published"
+  },
+  "kcm:regulation:regulation-d": {
+   "path": "regulations/regulation-d",
+   "title": "Regulation D",
+   "status": "published"
+  },
+  "kcm:regulation:securities-acts-amendments-1975": {
+   "path": "regulations/securities-acts-amendments-1975",
+   "title": "1975년 증권거래법 개정",
+   "status": "published"
+  },
+  "kcm:regulation:securities-exchange-act": {
+   "path": "regulations/securities-exchange-act",
+   "title": "1934년 증권거래법",
+   "status": "published"
+  },
+  "kcm:regulation:sub-penny-rule": {
+   "path": "regulations/sub-penny-rule",
+   "title": "Sub-penny Rule(Rule 612)",
+   "status": "published"
+  },
+  "kcm:regulation:trade-at-rule": {
+   "path": "regulations/trade-at-rule",
+   "title": "Trade-at Rule",
+   "status": "published"
+  },
+  "kcm:regulation:volcker-rule": {
+   "path": "regulations/volcker-rule",
+   "title": "Volcker Rule",
+   "status": "published"
+  },
+  "kcm:supplement:README": {
+   "path": "supplements/readme",
+   "title": "kcm 보완층 안내",
+   "status": "published"
+  },
+  "kcm:supplement:by-chapter": {
+   "path": "supplements/by-chapter",
+   "title": "kcm 보완 — 장별 묶음",
+   "status": "published"
+  },
+  "kcm:supplement:by-page": {
+   "path": "supplements/by-page",
+   "title": "kcm 보완 — 책 쪽 색인",
+   "status": "published"
+  },
+  "kcm:supplement:supplements-part2-README": {
+   "path": "supplements/part2/readme",
+   "title": "README",
+   "status": "published"
+  },
+  "kcm:supplement:themes": {
+   "path": "supplements/part2/themes",
+   "title": "kcm 2부 후보 주제",
+   "status": "published"
+  },
+  "kcm:supplement:unassigned": {
+   "path": "supplements/part2/unassigned",
+   "title": "kcm 2부 주제 미배정 기록",
+   "status": "published"
+  },
+  "kcm:supplement:timeline": {
+   "path": "supplements/timeline",
+   "title": "kcm 보완 타임라인 (2021-01 ~ 2026-10)",
+   "status": "published"
+  }
+ },
+ "tombstones": {}
+}
