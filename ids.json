@@ -1,6 +1,6 @@
 {
  "site": "kcm",
- "generated_from": "f9e40c2",
+ "generated_from": "1ba3f2f",
  "docs": {
   "kcm:book:kcm": {
    "path": "books/kcm",
@@ -172,9 +172,19 @@
    "title": "다자간매매체결회사 거래량 한도",
    "status": "published"
   },
+  "kcm:concept:australia-financial-regulatory-structure": {
+   "path": "concepts/australia-financial-regulatory-structure",
+   "title": "호주 금융감독 체계",
+   "status": "published"
+  },
   "kcm:concept:authorized-participant": {
    "path": "concepts/authorized-participant",
    "title": "지정참가회사",
+   "status": "published"
+  },
+  "kcm:concept:basel-iii-implementation-status": {
+   "path": "concepts/basel-iii-implementation-status",
+   "title": "바젤 III 최종안 이행 현황(미국·영국·EU·한국)",
    "status": "published"
   },
   "kcm:concept:basel-iii": {
@@ -205,6 +215,11 @@
   "kcm:concept:block-trade": {
    "path": "concepts/block-trade",
    "title": "대량매매",
+   "status": "published"
+  },
+  "kcm:concept:bok-monetary-board-and-wire": {
+   "path": "concepts/bok-monetary-board-and-wire",
+   "title": "금융통화위원회의 의결 절차와 한은금융망",
    "status": "published"
   },
   "kcm:concept:bond-connect": {
@@ -280,6 +295,11 @@
   "kcm:concept:china-a-share-boards": {
    "path": "concepts/china-a-share-boards",
    "title": "중국 A주 보드(커촹반·촹예반·베이징증권거래소·신삼판)",
+   "status": "published"
+  },
+  "kcm:concept:china-bond-market-infrastructure": {
+   "path": "concepts/china-bond-market-infrastructure",
+   "title": "중국 은행간채권시장 인프라",
    "status": "published"
   },
   "kcm:concept:circuit-breaker": {
@@ -722,6 +742,11 @@
    "title": "내부주문집행업무",
    "status": "published"
   },
+  "kcm:concept:international-financial-standard-setters": {
+   "path": "concepts/international-financial-standard-setters",
+   "title": "국제 금융 표준제정기구의 현황(BCBS·IOSCO·IAIS·FSB·CPMI)",
+   "status": "published"
+  },
   "kcm:concept:intertemporal-resource-allocation": {
    "path": "concepts/intertemporal-resource-allocation",
    "title": "현재와 미래 사이 효율적 자원 배분",
@@ -787,6 +812,11 @@
    "title": "코넥스시장",
    "status": "published"
   },
+  "kcm:concept:korea-asset-securitization-regime": {
+   "path": "concepts/korea-asset-securitization-regime",
+   "title": "한국의 자산유동화 제도",
+   "status": "published"
+  },
   "kcm:concept:korea-ats-nextrade": {
    "path": "concepts/korea-ats-nextrade",
    "title": "한국의 대체거래소(ATS)와 넥스트레이드",
@@ -795,6 +825,16 @@
   "kcm:concept:korea-corporate-disclosure": {
    "path": "concepts/korea-corporate-disclosure",
    "title": "한국 기업공시제도",
+   "status": "published"
+  },
+  "kcm:concept:korea-currency-swap-lines": {
+   "path": "concepts/korea-currency-swap-lines",
+   "title": "한국의 중앙은행 통화스왑",
+   "status": "published"
+  },
+  "kcm:concept:korea-depositary-receipts": {
+   "path": "concepts/korea-depositary-receipts",
+   "title": "한국의 예탁증서(DR·KDR) 제도",
    "status": "published"
   },
   "kcm:concept:korea-digital-asset-legislation": {
@@ -872,6 +912,11 @@
    "title": "한국모태펀드",
    "status": "published"
   },
+  "kcm:concept:korea-prime-brokerage-regime": {
+   "path": "concepts/korea-prime-brokerage-regime",
+   "title": "전담중개업무와 종합금융투자사업자",
+   "status": "published"
+  },
   "kcm:concept:korea-private-fund-classification": {
    "path": "concepts/korea-private-fund-classification",
    "title": "한국 사모집합투자기구의 분류와 시장 규모",
@@ -935,6 +980,11 @@
   "kcm:concept:latency-arbitrage": {
    "path": "concepts/latency-arbitrage",
    "title": "속도 차익거래",
+   "status": "published"
+  },
+  "kcm:concept:legal-entity-identifier-korea": {
+   "path": "concepts/legal-entity-identifier-korea",
+   "title": "법인식별기호(LEI)와 한국",
    "status": "published"
   },
   "kcm:concept:legal-entity-identifier": {
@@ -1642,6 +1692,11 @@
    "title": "미국 최선집행의무(FINRA Rule 5310)와 Reg Best Ex 철회",
    "status": "published"
   },
+  "kcm:concept:us-extended-hours-trading": {
+   "path": "concepts/us-extended-hours-trading",
+   "title": "미국 주식 거래시간 확대(23/5)와 24x5 청산",
+   "status": "published"
+  },
   "kcm:concept:us-hft-speed-bump-internalization": {
    "path": "concepts/us-hft-speed-bump-internalization",
    "title": "미국 장외 체결 비중·IEX 속도 지연·딜러 규칙",
@@ -1877,6 +1932,11 @@
    "title": "국제보험감독자협의회",
    "status": "published"
   },
+  "kcm:institution:ice-nyse-group": {
+   "path": "institutions/ice-nyse-group",
+   "title": "ICE·NYSE 그룹의 2025년 실적과 사업 확장",
+   "status": "published"
+  },
   "kcm:institution:ice": {
    "path": "institutions/ice",
    "title": "인터콘티넨털거래소",
@@ -1897,6 +1957,11 @@
    "title": "국제스왑·파생상품협회",
    "status": "published"
   },
+  "kcm:institution:japan-exchange-group-update": {
+   "path": "institutions/japan-exchange-group-update",
+   "title": "일본거래소그룹(JPX)의 최근 실적과 시장 제도 변화",
+   "status": "published"
+  },
   "kcm:institution:japan-exchange-group": {
    "path": "institutions/japan-exchange-group",
    "title": "일본거래소",
@@ -1912,6 +1977,16 @@
    "title": "한국거래소",
    "status": "published"
   },
+  "kcm:institution:korea-financial-intelligence-unit": {
+   "path": "institutions/korea-financial-intelligence-unit",
+   "title": "금융정보분석원(FIU)",
+   "status": "published"
+  },
+  "kcm:institution:korea-financial-investment-association-update": {
+   "path": "institutions/korea-financial-investment-association-update",
+   "title": "금융투자협회의 법적 지위와 최근 동향",
+   "status": "published"
+  },
   "kcm:institution:korea-financial-investment-association": {
    "path": "institutions/korea-financial-investment-association",
    "title": "한국금융투자협회",
@@ -1925,6 +2000,11 @@
   "kcm:institution:korea-securities-depository": {
    "path": "institutions/korea-securities-depository",
    "title": "한국예탁결제원",
+   "status": "published"
+  },
+  "kcm:institution:korea-securities-finance-corp-update": {
+   "path": "institutions/korea-securities-finance-corp-update",
+   "title": "한국증권금융의 법적 근거와 최근 동향",
    "status": "published"
   },
   "kcm:institution:korea-securities-finance-corp": {
