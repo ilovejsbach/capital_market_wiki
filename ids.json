@@ -1,6 +1,6 @@
 {
  "site": "kcm",
- "generated_from": "1ba3f2f",
+ "generated_from": "25307b8",
  "docs": {
   "kcm:book:kcm": {
    "path": "books/kcm",
@@ -292,6 +292,11 @@
    "title": "양도성예금증서",
    "status": "published"
   },
+  "kcm:concept:chiang-mai-initiative-multilateralisation": {
+   "path": "concepts/chiang-mai-initiative-multilateralisation",
+   "title": "치앙마이 이니셔티브 다자화(CMIM)",
+   "status": "published"
+  },
   "kcm:concept:china-a-share-boards": {
    "path": "concepts/china-a-share-boards",
    "title": "중국 A주 보드(커촹반·촹예반·베이징증권거래소·신삼판)",
@@ -300,6 +305,11 @@
   "kcm:concept:china-bond-market-infrastructure": {
    "path": "concepts/china-bond-market-infrastructure",
    "title": "중국 은행간채권시장 인프라",
+   "status": "published"
+  },
+  "kcm:concept:cips-cross-border-interbank-payment-system": {
+   "path": "concepts/cips-cross-border-interbank-payment-system",
+   "title": "CIPS 위안화 국제결제시스템",
    "status": "published"
   },
   "kcm:concept:circuit-breaker": {
@@ -547,6 +557,11 @@
    "title": "동등성 원칙",
    "status": "published"
   },
+  "kcm:concept:eu-csdr-and-refit": {
+   "path": "concepts/eu-csdr-and-refit",
+   "title": "EU 중앙증권예탁기관 규정(CSDR)과 Refit 개정",
+   "status": "published"
+  },
   "kcm:concept:eu-emir-central-clearing": {
    "path": "concepts/eu-emir-central-clearing",
    "title": "EU EMIR 중앙청산 체제",
@@ -702,6 +717,11 @@
    "title": "홍콩 H지수 ELS 사태",
    "status": "published"
   },
+  "kcm:concept:hong-kong-stablecoins-ordinance": {
+   "path": "concepts/hong-kong-stablecoins-ordinance",
+   "title": "홍콩 스테이블코인 조례",
+   "status": "published"
+  },
   "kcm:concept:horizontal-integration": {
    "path": "concepts/horizontal-integration",
    "title": "수평 통합",
@@ -822,6 +842,11 @@
    "title": "한국의 대체거래소(ATS)와 넥스트레이드",
    "status": "published"
   },
+  "kcm:concept:korea-business-development-company": {
+   "path": "concepts/korea-business-development-company",
+   "title": "기업성장집합투자기구(BDC)",
+   "status": "published"
+  },
   "kcm:concept:korea-corporate-disclosure": {
    "path": "concepts/korea-corporate-disclosure",
    "title": "한국 기업공시제도",
@@ -912,6 +937,11 @@
    "title": "한국모태펀드",
    "status": "published"
   },
+  "kcm:concept:korea-national-growth-fund": {
+   "path": "concepts/korea-national-growth-fund",
+   "title": "국민성장펀드와 첨단전략산업기금",
+   "status": "published"
+  },
   "kcm:concept:korea-prime-brokerage-regime": {
    "path": "concepts/korea-prime-brokerage-regime",
    "title": "전담중개업무와 종합금융투자사업자",
@@ -937,6 +967,11 @@
    "title": "한국 증권거래세와 농어촌특별세 (2021~2026 세율)",
    "status": "published"
   },
+  "kcm:concept:korea-security-token-regime": {
+   "path": "concepts/korea-security-token-regime",
+   "title": "토큰증권(STO)·조각투자 제도",
+   "status": "published"
+  },
   "kcm:concept:korea-short-selling": {
    "path": "concepts/korea-short-selling",
    "title": "한국의 공매도 제도와 금지·재개 이력",
@@ -945,6 +980,16 @@
   "kcm:concept:korea-spac-system": {
    "path": "concepts/korea-spac-system",
    "title": "한국 스팩(기업인수목적회사) 법령 요건과 현황",
+   "status": "published"
+  },
+  "kcm:concept:korea-sustainability-disclosure-mandate": {
+   "path": "concepts/korea-sustainability-disclosure-mandate",
+   "title": "한국 지속가능성 공시 의무화(KSSB 기준)",
+   "status": "published"
+  },
+  "kcm:concept:korea-won-internationalization": {
+   "path": "concepts/korea-won-internationalization",
+   "title": "원화 국제화와 외환시장 개선",
    "status": "published"
   },
   "kcm:concept:korean-ats": {
@@ -1862,6 +1907,11 @@
    "title": "유럽집행위원회",
    "status": "published"
   },
+  "kcm:institution:export-import-bank-of-korea": {
+   "path": "institutions/export-import-bank-of-korea",
+   "title": "한국수출입은행(KEXIM)의 자본과 업무",
+   "status": "published"
+  },
   "kcm:institution:fca": {
    "path": "institutions/fca",
    "title": "금융행위청",
@@ -1945,6 +1995,11 @@
   "kcm:institution:imf": {
    "path": "institutions/imf",
    "title": "국제통화기금",
+   "status": "published"
+  },
+  "kcm:institution:investors-exchange-iex": {
+   "path": "institutions/investors-exchange-iex",
+   "title": "IEX(Investors Exchange)",
    "status": "published"
   },
   "kcm:institution:iosco": {
@@ -2130,6 +2185,11 @@
   "kcm:institution:six-group": {
    "path": "institutions/six-group",
    "title": "SIX 그룹과 아퀴스(Aquis) 인수",
+   "status": "published"
+  },
+  "kcm:institution:state-administration-of-foreign-exchange": {
+   "path": "institutions/state-administration-of-foreign-exchange",
+   "title": "중국 국가외환관리국(SAFE)",
    "status": "published"
   },
   "kcm:institution:stock-exchange-of-hong-kong": {
